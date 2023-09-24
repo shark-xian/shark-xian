@@ -17,7 +17,7 @@
 ✔ Development for me is a challenge where I am capable of creating complex projects and finding the best solutions.<br>
 </p>
 <p align="center">
-  <a href="https://github.com/talentdev219"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20full-stack%20developer;10+%2B%20years%20of%20hands-on%20experience%20as%20a%20Web%20full%20stack%20developer&center=true&width=800&height=45"></a>
+  <a href="https://github.com/shark-xian"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20full-stack%20developer;10+%2B%20years%20of%20hands-on%20experience%20as%20a%20Web%20full%20stack%20developer&center=true&width=800&height=45"></a>
 </p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
 <img align="right" src="https://img.shields.io/github/followers/talentdev219?label=Follow&style=social" />
@@ -59,14 +59,14 @@
   </tr>
 </table>
 <div align="center" >
-  <a  align="center" href="https://github.com/talentdev219" title="Go to Source">
+  <a  align="center" href="https://github.com/shark-xian" title="Go to Source">
     <img width=50% style="text-align: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=talentdev219&theme=react&border=61dafb&hide_border=true" alt="talentdev219" />
   </a>
 </div>
 <div align="center" >
-  <img width=55% align="left" alt="talentdev219's Github Stats" src="https://github-readme-stats.vercel.app/api?username=talentdev219&theme=github_dark&show_icons=true&hide_border=false" />
-  <a align="left" href="https://github.com/talentdev219">
-    <img width=40% alt="talentdev219" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talentdev219&hide=c%23,powershell,Mathematica,Ruby,%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <img width=55% align="left" alt="Shark-xian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=talentdev219&theme=github_dark&show_icons=true&hide_border=false" />
+  <a align="left" href="https://github.com/shark-xian">
+    <img width=40% alt="shark-xian" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talentdev219&hide=c%23,powershell,Mathematica,Ruby,%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
