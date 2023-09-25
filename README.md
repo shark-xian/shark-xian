@@ -20,7 +20,7 @@
   <a href="https://github.com/shark-xian"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20full-stack%20developer;10+%2B%20years%20of%20hands-on%20experience%20as%20a%20Web%20full%20stack%20developer&center=true&width=800&height=45"></a>
 </p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
-<img align="right" src="https://img.shields.io/github/followers/talentdev219?label=Follow&style=social" />
+<img align="right" src="https://img.shields.io/github/followers/shark-xian?label=Follow&style=social" />
 <h1 align="center"></h1>
 
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
@@ -60,23 +60,23 @@
 </table>
 <div align="center" >
   <a  align="center" href="https://github.com/shark-xian" title="Go to Source">
-    <img width=50% style="text-align: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=talentdev219&theme=react&border=61dafb&hide_border=true" alt="talentdev219" />
+    <img width=50% style="text-align: center;" src="https://github-readme-streak-stats.herokuapp.com/?user=shark-xian&theme=react&border=61dafb&hide_border=true" alt="Shark-Xian" />
   </a>
 </div>
 <div align="center" >
-  <img width=55% align="left" alt="Shark-xian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=talentdev219&theme=github_dark&show_icons=true&hide_border=false" />
+  <img width=55% align="left" alt="Shark-xian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shark-xian&theme=github_dark&show_icons=true&hide_border=false" />
   <a align="left" href="https://github.com/shark-xian">
-    <img width=40% alt="shark-xian" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talentdev219&hide=c%23,powershell,Mathematica,Ruby,%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width=40% alt="shark-xian" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shark-xian&hide=c%23,powershell,Mathematica,Ruby,%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=talentdev219&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
+<img width=100% src="https://github-profile-trophy.vercel.app/?username=shark-xian&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
 <br>
 
 
 <h2 font-weight="bold">𝗦𝗸𝗶𝗹𝗹 𝗛𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝘀</h2>
 
-<img align="right" alt="GIF" src="https://github.com/talentdev219/talentdev219/blob/Temle/code.gif?raw=true" width="400" />
+<img align="right" alt="GIF" src="https://github.com/shark-xian/shark-xian/blob/Temle/code.gif?raw=true" width="400" />
  
 ### ✔️ React Native App Development <br>
 
