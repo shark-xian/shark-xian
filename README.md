@@ -70,7 +70,6 @@
   </a>
 </div>
 
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=shark-xian&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
 <br>
 
 
